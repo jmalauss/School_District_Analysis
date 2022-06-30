@@ -29,7 +29,8 @@ After:
 
 Below is the code used to sort the school summary by % Overall Passing. By passing the second line, we are able to see that the adjustment to the scores moved THS into the top 5 performing schools.
 
-```top_schools = per_school_summary_df.sort_values(['% Overall Passing'], ascending = False)
+```
+top_schools = per_school_summary_df.sort_values(['% Overall Passing'], ascending = False)
 top_schools.head(5)
 ```
 
