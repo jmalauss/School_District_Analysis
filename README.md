@@ -12,7 +12,7 @@ The image below demonstrates the change in scores before and after the removal o
 
 ![old_and_replacement_scores](https://github.com/jmalauss/School_District_Analysis/blob/main/Module_4_Challenge_Snips/old_and_replacement_scores.png)
 
-You can see that the scores for Math, Reading and Overall increased to passing grades. 
+You can see that the scores for Math, Reading and Overall increased. 
 
 ### How is the school summary affected?
 
